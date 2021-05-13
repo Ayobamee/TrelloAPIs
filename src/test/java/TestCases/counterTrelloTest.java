@@ -77,7 +77,7 @@ public class counterTrelloTest {
 						extract().response();
 
 
-		//Display the response body
+		//Put response in a string
 		String responseString = res.asString();
 
 
